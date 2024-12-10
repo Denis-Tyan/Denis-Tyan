@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Denis-Tyan
 - 👀 I’m interested in figuring out who decided that in Java objects need special methods.
-- 🌱 I’m currently learning how compooter go bing and bong.
-- 💞️ I’m looking to collaborate on anything that someone wants to have a button not correctly function on. 
+- 🌱 I’m currently learning how compooter go bing and bong. 
 - 📫 How to reach me, smoke signals preferred, email otherwise.
 
 <!---
